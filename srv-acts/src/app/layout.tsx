@@ -1,7 +1,6 @@
-import ClientHeader from "@/components/client-header";
-import Header from "@/components/server-header";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { Toaster } from "react-hot-toast";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -19,11 +18,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="bg-blue-700 w-full grid gap-10 ">
-          <Header />
-          <ClientHeader />
+        <main className="bg-blue-700/30 h-screen w-full flex items-center justify-center">
           {children}
-        </div>
+        </main>
+        <Toaster />
       </body>
     </html>
   );

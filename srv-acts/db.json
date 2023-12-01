@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "task 1",
+      "completed": true
+    },
+    {
+      "id": 0.6144561528710502,
+      "text": "arzu yox",
+      "completed": true
+    },
+    {
+      "id": 0.07075723578465398,
+      "text": "biuyt",
+      "completed": true
+    },
+    {
+      "id": 0.4496043682442499,
+      "text": "vas adysnyren sebik",
+      "completed": true
+    },
+    {
+      "id": 0.05094885042203101,
+      "text": "dsad",
+      "completed": false
+    },
+    {
+      "id": 0.8087667002571985,
+      "text": "aye bu ne demeydi",
+      "completed": false
+    },
+    {
+      "id": 0.8608104123920552,
+      "text": "ha nagaysan",
+      "completed": false
+    },
+    {
+      "id": 0.6680401748341454,
+      "text": "aha aha",
+      "completed": false
+    },
+    {
+      "id": 0.6932713062785361,
+      "text": "yes",
+      "completed": false
+    }
+  ]
+}

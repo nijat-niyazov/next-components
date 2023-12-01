@@ -1,0 +1,140 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Wave hello! 👋",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Get Coffee ☕☕☕",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Go to Work ⚒",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Write Code 💻",
+      "id": 4,
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "title": "new code",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "bes bu nedir",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "anlamam",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "yes",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "new year",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "olar",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "title": "hee revalidate must be 0",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "bes refresh?",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "son 10 saniyeni gosterir",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "men ele basa dusdum esas sehifeden",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "aydin oldu",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "iyice yak",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "anlamam nedenini",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "added from page",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "lastly",
+      "id": 19,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "en son",
+      "id": 20,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "bes bu nedir",
+      "id": 21,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "anlamadim yavni",
+      "id": 22,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "he bu ozu ucundu",
+      "id": 23,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "sadligimnan ",
+      "id": 24,
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "yes",
+      "id": 25,
+      "completed": true
+    }
+  ]
+}
